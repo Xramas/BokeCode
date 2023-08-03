@@ -1,10 +1,10 @@
-title: Boke
-subtitle: '记录生活'
-description: '这是我建立的第一个博客'
-keywords: Boke
-author: 张云龙
-language: zh-CN
-timezone: Asia/Shanghai
+title: Hexo
+subtitle: ''
+description: ''
+keywords: null
+author: John Doe
+language: en
+timezone: ''
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
