@@ -1,10 +1,10 @@
-title: Hexo
+title: BokeCode
 subtitle: ''
 description: ''
 keywords: null
 author: John Doe
-language: en
-timezone: ''
+language: zh-CN
+timezone: Asia/Shnaghai
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
